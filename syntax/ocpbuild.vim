@@ -15,6 +15,7 @@ syn keyword ocpFields  files generated dirname archive requires
 syn keyword ocpFields  tests test_dir test_args test_benchmark
 syn keyword ocpFields  bytecomp bytelink link
 syn keyword ocpFields  has_asm nopervasives sort
+syn keyword ocpFields  comp ccopt
 syn keyword ocpFields  version authors license copyright
 syn keyword ocpFields  lib_files install 
 
