@@ -22,6 +22,7 @@ syn keyword ocpFields  version authors license copyright
 syn keyword ocpFields  lib_files install installed
 
 syn keyword ocpPreProc  test_exit ocp2ml env_strings
+syn keyword ocpPreProc  ocaml_major_version
 
 " Strings
 syn region ocpString    start=+"+ end=+"+
