@@ -8,6 +8,7 @@ if exists("b:current_syntax")
 endif
 
 syn keyword ocpKeywords  begin end pack
+syn keyword ocpKeywords  if then else
 
 syn keyword ocpBlockKind  library syntax objects program test
 
