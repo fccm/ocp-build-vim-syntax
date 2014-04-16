@@ -11,7 +11,8 @@ syn keyword ocpKeywords  begin end pack
 
 syn keyword ocpBlockKind  library syntax objects program test
 
-syn keyword ocpFields  files generated dirname archive requires
+syn keyword ocpFields  files generated dirname archive
+syn keyword ocpFields  requires bundle
 syn keyword ocpFields  tests test_dir test_args test_benchmark
 syn keyword ocpFields  bytecomp bytelink link
 syn keyword ocpFields  has_asm nopervasives sort
